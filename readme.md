@@ -1,28 +1,4 @@
 # This is a boilerplate project to start using Electron
-
-### It contains the following packages as main dependencies
-
-- electron
-- @babel/core
-- @babel/preset-env
-- @babel/preset-react
-- babel-loader
-- css-loader
-- electron-reload
-- sass
-- sass-loader
-- style-loader
-- webpack
-- webpack-cli
-
-### And additional  non-dependencies pre-configured to speed-up the process
-
-- react
-- react-dom
-- styled-components
-
-
-
 # Getting Started
 
 ```bash
@@ -39,6 +15,27 @@ Run this to run the project on a native window
 ```bash
 npm start
 ```
+
+### It contains the following packages as main dependencies
+
+- electron
+- @babel/core
+- @babel/preset-env
+- @babel/preset-react
+- babel-loader
+- css-loader
+- electron-reload
+- sass
+- sass-loader
+- style-loader
+- webpack
+- webpack-cli
+
+### And additional  non dependencies pre-configured to speedup the process
+
+- react
+- react-dom
+- styled-components
 
 For additional information
 - [Electron Documentation](https://www.electronjs.org/)
