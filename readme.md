@@ -11,7 +11,7 @@ Run this everytime a new file is added to compile it to windows
 npm run watch
 ```
 
-Run this to run the project on a native window
+Run this to open the project on a native window
 ```bash
 npm start
 ```
